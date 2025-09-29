@@ -35,9 +35,7 @@ The goal is to provide **transparent, reproducible analytics** that allow users 
 
 ---
 
-## Repository Structure
-See [`PROJECT_STRUCTURE.md`](./docs/PROJECT_STRUCTURE.md) for full layout.  
-
+## Repository Structure  
 Key directories:  
 - `tradesentinel/` — core modules (`data_ingestion.py`, `indicators.py`, `backtester.py`, `dashboard.py`)  
 - `tests/` — automated test suites  
