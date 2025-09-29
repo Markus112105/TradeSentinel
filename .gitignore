@@ -2,3 +2,6 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 
+docs/AGENTS.md
+docs/DESIGN_NOTES.md
+docs/PROJECT_STRUCTURE.md
